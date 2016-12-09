@@ -52,6 +52,9 @@
         "mopub-ios-sdk/MoPubSDK": [
 
         ]
+      },
+      "xcconfig": {
+        "FRAMEWORK_SEARCH_PATHS": "\"${PODS_ROOT}/Google-Mobile-Ads-SDK/GoogleMobileAdsSdkiOS-7.1.0\""
       }
     }
   ]

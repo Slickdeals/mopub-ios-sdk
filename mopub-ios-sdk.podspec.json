@@ -53,7 +53,7 @@
 
         ]
       },
-      "frameworks": ["${PODS_ROOT}/Google-Mobile-Ads-SDK/GoogleMobileAdsSdkiOS-7.1.0/GoogleMobileAds.framework"],
+      "frameworks": ["GoogleMobileAds"],
       "xcconfig": {
           "FRAMEWORK_SEARCH_PATHS": "\"${PODS_ROOT}/Google-Mobile-Ads-SDK/GoogleMobileAdsSdkiOS-7.1.0\""
       }
